@@ -2,7 +2,7 @@
 title: 黄超
 description: 欢迎来到人间
 url: huangchao.space
-avatar: /avatar2.jpg
+avatar: /avatar1.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpg
@@ -33,10 +33,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: HuangChao
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com
+    - https://github.com/huangchao99
 google_site_verification: xxxxx
 lang: zh
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: HuangChao
+  url: https://github.com/huangchao99/
+  email: 2170189105@qq.com
