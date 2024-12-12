@@ -1,11 +1,32 @@
----
-layout: page
-title: About
----
+ <center>
+     <h1>个人简历</h1>
+     <div>
+         <span>
+             <img src="assets/phone-solid.svg" width="18px">
+             xxxxxxxxxx
+         </span>
+         ·
+         <span>
+             <img src="assets/envelope-solid.svg" width="18px">
+             2170189105@qq.com
+         </span>
+         ·
+         <span>
+             <img src="assets/github-brands.svg" width="18px">
+             <a href="https://github.com/huangchao99">huangchao99</a>
+         </span>
+         ·
+         <span>
+             <img src="assets/rss-solid.svg" width="18px">
+             <a href="#">My Blog</a>
+         </span>
+     </div>
+ </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1999 年出生
+
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
